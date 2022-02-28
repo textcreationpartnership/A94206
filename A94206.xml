@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God glorified, and the wicked snared in a thanksgiving sermon for the most happy preservation of His Majesty, King William III. from a most horrid and barbarous assassination, in order to an invasion from France / by A.S.</title>
+            <author>A. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94206</idno>
+            <idno type="STC">Wing S6A</idno>
+            <idno type="STC">ESTC R42325</idno>
+            <idno type="EEBO-CITATION">36272993</idno>
+            <idno type="OCLC">ocm 36272993</idno>
+            <idno type="VID">150247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2237:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God glorified, and the wicked snared in a thanksgiving sermon for the most happy preservation of His Majesty, King William III. from a most horrid and barbarous assassination, in order to an invasion from France / by A.S.</title>
+                  <author>A. S.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Bible. --  O.T. --  Psalms IX, 16 --  Sermons.</term>
+               <term>Thanksgiving sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:150247:1" rendition="simple:additions"/>
+            <pb facs="tcp:150247:2"/>
+            <pb facs="tcp:150247:2" rendition="simple:additions"/>
+            <p>God Glorified, AND THE <hi>Wicked Snared.</hi>
+            </p>
+            <p>IN A THANKSGIVING SERMON For the moſt happy Preſerva<g ref="char:EOLhyphen"/>tion of His Majeſty, King <hi>WILLIAM</hi> III. from a moſt horrid and barbarous Aſſaſſination, in order to an Invaſion from <hi>France.</hi>
+            </p>
+            <p>By <hi>A. S.</hi>
+            </p>
+            <p>LONDON: Printed, and are to be ſold by <hi>R. Baldwin</hi> at the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150247:3"/>
+            <pb n="1" facs="tcp:150247:3"/>
+            <head>God Glorified, AND THE <hi>Wicked Snared.</hi>
+            </head>
+            <q>
+               <bibl>PSAL. IX. 16.</bibl> The Lord is known by the Judgments that he executeth.</q>
+            <p>ALthough there be nothing in the World ſo much removed from the Eye of Senſe as the Subſtance of the Eſſence of God is; yet there is nothing more known by its Acts and Operations. The direſt Beams of the Divine Majeſty that flow from his Being and Eſſence, theſe are
+<pb n="2" facs="tcp:150247:4"/> too illuſtrious for our dim and bleared Eyes to gaze upon. But then the Rayes of his Wiſdom and Power, Goodneſs, Juſtice, and Holineſs reflected upon us from the Creature, theſe diſcover God unto us, and make him known, who in his Eſſence is a great Deep, an eternal Abyſs unto our Eyes; ſo that although there be nothing in the World leſs known than the very Being or Eſſence of God; yet there is nothing more clear, more viſible in its <hi>Acts, Effects,</hi> and <hi>Operations,</hi> than God's <hi>Attributes</hi> are, his Wiſdom, Power, Goodneſs, <hi>&amp;c.</hi> his <hi>Eſſence</hi> (as I may ſay) it is all covered with thick Darkneſs, veyl'd with Clouds from our Eye, but the Rayes of thoſe <hi>Attributes</hi> ſhine through thoſe Clouds: So that as we ſee the Light of the Sun many times when we cannot ſee the Sun it ſelf, the Body there<g ref="char:EOLhyphen"/>of being hidden under a Cloud. So may we ſee the Luſtre and Glory of the Wiſ<g ref="char:EOLhyphen"/>dom, Power, and Greatneſs of God, while we cannot ſee his Eſſence, nor pry into the Deep of God himſelf. Which I conceive will inſtruct us as a Preparation to under<g ref="char:EOLhyphen"/>ſtand
+<pb n="3" facs="tcp:150247:4"/> the Words, <hi>The Lord is known,</hi> &amp;c. Which words are an abſolute and plain Pro<g ref="char:EOLhyphen"/>poſition of themſelves, therefore I ſhall not any way divide or leſſen them, leſt alſo I ſhould at the ſame time cut the Nerves of the Truth, and make it weak by being mi<g ref="char:EOLhyphen"/>nute and obſcure, which in it ſelf is as it were a ſtrong and an entire Body; but I ſhall ſpeak unto them by making theſe Que<g ref="char:EOLhyphen"/>ſtions upon them:</p>
+            <p n="1">I. <hi>What is the Judgment of God here ſaid to be executed?</hi>
+            </p>
+            <p n="2">II. <hi>When may God be ſaid to be known in the Senſe ſpoken of in the Words?</hi>
+            </p>
+            <p n="3">III. <hi>How may we underſtand more remark<g ref="char:EOLhyphen"/>ably the Judgments of God? Or thus, How or by what means do the Judgments that God executes in the World, make the ſame God known unto us?</hi>
+            </p>
+            <pb n="4" facs="tcp:150247:5"/>
+            <p>
+               <hi>Firſt,</hi> What is meant by the Judgments here ſpoken of? I anſwer, by Judgment expreſt by the <hi>Hebrew Miſhpat,</hi> we are to underſtand the righteous Sentences, and ho<g ref="char:EOLhyphen"/>ly Decrees of God paſt upon Man, or Man<g ref="char:EOLhyphen"/>kind, in order to Reward or Puniſhment; and alſo the Execution that is made upon the paſſing of theſe Sentences. So the <hi>Jew<g ref="char:EOLhyphen"/>iſh</hi> Maſters tell us, It is to judge according to Truth, and execute alſo according to that Judgment whether it be in Matter of Puniſhment or Reward. And then if you would know the particular Senſe, wherein the Word is taken here, there's no Queſti<g ref="char:EOLhyphen"/>on but it refers to the worſt Senſe (that is to ſay) an <hi>Act</hi> of Judgment, the Execution of it, as the latter part of the words ſhew, <hi>The Wicked is ſnared in the Work of their own Hands.</hi> Look in what Senſe the Judgment of God is ſaid to be executed in the latter part of the Text, in that Senſe it is taken in the former part: but the Judgment execu<g ref="char:EOLhyphen"/>ted is ſpoken in reſpect of Puniſhment of
+<pb n="5" facs="tcp:150247:5"/> Offenders; therefore ſo is it to be taken in the former part alſo.</p>
+            <p>Secondly, <hi>When may God be ſaid to be known in the Senſe ſpoken of in the Words?</hi>
+            </p>
+            <p>I anſwer, When ſo much of his Wiſdom, Power, Juſtice, Righteouſneſs, Holineſs, or any other of the Divine <hi>Attributes,</hi> is diſ<g ref="char:EOLhyphen"/>covered and made known unto the Sons of Men, as that every Man that will conſider may indeed obſerve and take Notice of; that <hi>he that hath an ear, may hear;</hi> and <hi>he that hath an Eye, may ſee,</hi> if he pleaſe. We are not here to think that God ſpeaks of the Metaphyſical, or Phyloſophical Knowledge of his Eſſence; No, that's too high for us; but he ſpeaks of Moral Knowledge of his <hi>Attributes,</hi> or indeed rather of a ſober and pious, and humble Acknowledgment of them. So that then God may be ſaid to be known when his Wiſdom, Power, Good<g ref="char:EOLhyphen"/>neſs are acknowledged in theſe Providences and Diſpenſations that he exerciſeth and acts among the Sons of Men. The Holy Scrip<g ref="char:EOLhyphen"/>tures
+<pb n="6" facs="tcp:150247:6"/> they were not (generally at leaſt, and in the largeſt Extents of them) deſigned to inſtruct Philoſophers, and to diſcipline and teach Men of great and raiſed parts and un<g ref="char:EOLhyphen"/>derſtandings only, but they were as well aimed to enlighten, to inform, to teach, and inſtruct Men of lower and weaker Ca<g ref="char:EOLhyphen"/>pacity. As the Sun doth not only ſhine up<g ref="char:EOLhyphen"/>on the Cedars of <hi>Lebanon,</hi> upon the talleſt and braveſt Plants of the Wood, the Trees of the Foreſt; but alſo upon the lower Brambles and Buſhes; in like manner, God (who would have all to be ſaved) doth not ſo cauſe the Holy Scriptures to be drawn, penn'd, or Written, that they ſhould only be underſtood by Men of greateſt Parts (I mean in the general, or things neceſſary) and of higheſt Attainments; but alſo, that what is neceſſary ſhould be drawn out of them, even by Men of lower and meaner Under<g ref="char:EOLhyphen"/>ſtandings. And hence it comes to paſs when we find the Knowledge of God ſpoken of in Scripture, it is not to be underſtood Philoſophical, Notional, Metaphyſical Know<g ref="char:EOLhyphen"/>ledge of his Being and Eſſence (for this is
+<pb n="7" facs="tcp:150247:6"/> above all Capacities) but we are to under<g ref="char:EOLhyphen"/>ſtand common and ordinary acknowledg<g ref="char:EOLhyphen"/>ment of thoſe wonderful and glorious <hi>Attri<g ref="char:EOLhyphen"/>butes</hi> of God ſhining in his Providence, made known in his Works, appearing in all thoſe Exerciſes of that Providence in the World, and amongſt Mankind.</p>
+            <p>Thirdly, <hi>How, and by what means does the Judgments which God executes in the World make him known unto the Sons of Men.</hi>
+            </p>
+            <p>I anſwer firſt in the General, That God's Judgments they are generally ſuited and ſtrangely accomodated unto the Time, Op<g ref="char:EOLhyphen"/>portunity, and alſo unto the Nature of thoſe things that are at ſuch times upon the Wheel, or upon the Anvil, when thoſe Judgments are diſcovered and are executed in the World. The Wiſdom of Divine Providence it makes it ſelf known every where unto a ſeeing and conſidering Eye; and if we will but take notice of things, we may ſee the Lines of Divine Wiſdom and
+<pb n="8" facs="tcp:150247:7"/> Knowledge drawn upon every thing, we may diſcover the Footſteps of Righteouſneſs and Juſtice generally in God's Judgments, of his Intendments, and of his Deſigns in the World.</p>
+            <p>But to fall into particulars: All God's Judgments are ſeaſonable, and the moſt re<g ref="char:EOLhyphen"/>markable in theſe Particulars.</p>
+            <p n="1">1. They often ſurprize the Sinner in the very act of Sin; they areſt the Hand that is lifted up to ſtrike; they cut off the Head that is plotting and contriving to deſtroy; they fall in upon the Sinner juſt in ſuch a nick of time either as he was ready to do the Evil, or while he was juſt doing of it; and this is a great and a ſingular Diſcovery of the Providence of God in theſe Affairs. Men, they do indeed follow and ſet as it were the Contrivances and Plottings of Evil Men at a great Diſtance; they do trace the Works of Darkneſs in the Dark, and ſo they often miſs that which they follow; the Sinner eſcapes in a Crowd, or a Miſt of his
+<pb n="9" facs="tcp:150247:7"/> own making, and ſo gets off without any Puniſhment to them here in this World. But now God he hath an Eye in every Attom of the Sun, and his Eye-Beams they point in<g ref="char:EOLhyphen"/>to every Corner of Man's Heart. He ſtands by when all the Contrivances and Machina<g ref="char:EOLhyphen"/>tions of wicked men are upon the Wheel; ſtands by though he do not partake or com<g ref="char:EOLhyphen"/>municate with them. He liſtens unto all the Plots that are made; nay, he hears without liſtening; for he is in the very Heart that thinks, in the very Head that contrives; and with the Voiee, the Tongue that ſpeaks, though it whiſper never ſo gently, never ſo ſoftly, yet then he only can give Strength to it to move. And now when Plots are laid, and Deſigns contriv'd, and Inſtruments of Death are forged, and are big, and ready upon the Anvil; when the Innocent is de<g ref="char:EOLhyphen"/>ſigned for ſlaughter, and when the Righte<g ref="char:EOLhyphen"/>ous is ſwallowed up in hope; and when the Prey is already devoured in the Expectation of the Devourer, then doth God often times ſtrike in, and fall upon the Necks of thoſe evil Perſons.</p>
+            <pb n="10" facs="tcp:150247:8"/>
+            <p>You may obſerve God takes Pleaſure (at leaſt in many ſignal Evils) to chooſe the ve<g ref="char:EOLhyphen"/>ry time of Sin for the time of Puniſhment: <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> ſtretches out his Hand to ſupport the Ark, which was not to be touched by any ſuch Perſon, and he is in the ſame Moment ſmitten dead, <hi>touched himſelf by the Hand of the Lord, and taken away in the twinckling of an Eye,</hi> 1 Chron. 13. 9, 10. again <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> the King, he arrogates to himſelf to execute the Prieſts Office, he invades the Work that was put into the Hands of other Perſons, <hi>and in the ſame Moment he was ſmitten with Leproſy,</hi> 2 Chron. 26. 19. Thus alſo was it with <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> they were ſurprized in the very Act of their Rebellion. God thus deprehends, ſeizes, and areſts a Sinner, even in the very Act and Exerciſe of Sin; when he ſtops him in the full Ca<g ref="char:EOLhyphen"/>rear, and lays hold upon him while he was juſt falling upon the Evil deſigned, this ſhews that it is God that ſtrikes, and that it is his Wiſdom, and his Juſtice that interpoſeth in ſuch a caſe as this is.</p>
+            <p n="2">
+               <pb n="11" facs="tcp:150247:8"/>2. If God doth fall upon the Sinner by ſome remarkable, viſible, and extraordina<g ref="char:EOLhyphen"/>ry Judgment; this is an other Demonſtration of God's Providence, and ſuch as may well be ſaid to be in Judgment amongſt the Sons of Men. If God ſhall fill the World with Darkneſs at Noon-day; if God ſhould draw an Eclipſe over the Eye of the World, that is to ſay upon the Face of the Sun, at an extraordinary time, in an extraordinary man<g ref="char:EOLhyphen"/>ner, as he did at our Saviour's Death, would we not all ſay, and muſt we not needs acknowledge, that the Hand of God is here?</p>
+            <p>So when the Veil of the Temple was rent (the Temple it ſelf being in good Re<g ref="char:EOLhyphen"/>pair) and divided aſunder, as it was at our Saviour's Death; was not this a viſible De<g ref="char:EOLhyphen"/>monſtration of the Interpoſition of God's Power and of his Providence here in the World? The Fate alſo of the Rebels in <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> (before inſtanced in) was the more re<g ref="char:EOLhyphen"/>markable, in that by a Propheſy, <hi>Moſes</hi> had
+<pb n="12" facs="tcp:150247:9"/> foretold that ſome ſtrange Death ſhould fall upon them, <hi>Then the earth opened its mouth and ſwallowed them up,</hi> Numb. 16. 31, 32. So again we find thoſe Two Hundred and Fifty Perſons that offered ſtrange Fire unto God, theſe are taken away by a ſtrange Fire; this is a Demonſtration of God's Juſtice, and of their Iniquity.</p>
+            <p n="3">3. God's Judgments again are often Exe<g ref="char:EOLhyphen"/>cuted when the Wicked have brought things to ſuch a paſs as that the Righeous are al<g ref="char:EOLhyphen"/>moſt ruined, and are in the greateſt danger, then God appears at ſuch a time, and this Appearance demonſtrates him to be God, and makes him known amongſt Mankind; <hi>In the mount will the Lord be ſeen,</hi> Gen. 22. 14. God often lets Wickedneſs arrive and ſwell into great Tides, unto great Exceſſes and Inundations; he often ſuffers the Winds to blow, and the Sea to ariſe, and the Waves to ſwell until the Sides of the Veſ<g ref="char:EOLhyphen"/>ſel crack, the Cordage be broken; until the Church as it were be ready to ſink, and the mighty Waters ready to paſs over it;
+<pb n="13" facs="tcp:150247:9"/> and then in a Moment he ſtills the Winds, he allays the Fury of theſe Tempeſts that overflow; he makes the Face of the Waters ſmooth like Glaſs, and he heals the Breach<g ref="char:EOLhyphen"/>es of the Veſſel, and knits the joints there<g ref="char:EOLhyphen"/>of together again.</p>
+            <p>And when God deals thus with his Church, this is a Demonſtration that there is a Pro<g ref="char:EOLhyphen"/>vidence awake and alive in the World, that takes Notice of things, even when they are brought to the greateſt Hazards, and in the greateſt Dangers and Extremities. God loves ſometimes for the clearer demonſtrati<g ref="char:EOLhyphen"/>on of his Providence, to let things go to dangerous Points, unto very dreadful hazard<g ref="char:EOLhyphen"/>ous Caſes; he ſometimes placeth his People upon the Brink of the Pit; and ſets his Church as it were upon the Brow of a Rock, upon a great Precipice; but then he ſo orders things again, that he interpoſes in times of greateſt Danger; he reſcues the Prey out of the Mouth of the Lyon; he plucks the Firebrand out of the Fire, and he ſmites out thoſe Teeth that were ready to devour; this ſhews the
+<pb n="14" facs="tcp:150247:10"/> Wiſdom, and Power, and demonſtrates the Providence of God.</p>
+            <p n="4">4. God interpoſes ſometimes alſo in the midſt of great Affairs; when great Deſigns are upon the Whell, and great things are driving on towards an Iſſue, then God de<g ref="char:EOLhyphen"/>lights to intervene and ſhew himſelf.</p>
+            <p>God ſits in the Centre of the great Wheel of Providence, that rules and governs all the World; he turns the <hi>Primum Mobile,</hi> he moves the firſt moveable, he turns the high<g ref="char:EOLhyphen"/>eſt Sphere; and though he move the leſſer Wheel, or the lower Affairs alſo, yet we are ſure the great and mighty Affairs are go<g ref="char:EOLhyphen"/>verned by none but God; if a Hair of a Man's Head do not fall without the Providence of God, how much leſs the Man himſelf? If every Man, every ſingle Perſon be the Con<g ref="char:EOLhyphen"/>cernment of Divine Providence, how much more thoſe Perſons that are God's Vicegerents, Princes, Magiſtrates, and Men in place; for they have a double Relation to God, as Men, and as Men in Power. And there<g ref="char:EOLhyphen"/>fore
+<pb n="15" facs="tcp:150247:10"/> you ſhall find that God makes mention of the very Name of <hi>Cyrus</hi> many Years be<g ref="char:EOLhyphen"/>fore he was born, and calls him his Servant, nay his Anointed Servant, and that though <hi>Cyrus</hi> was a Heathen Prince, but then he was a Prince, and a Prince that God deſign<g ref="char:EOLhyphen"/>ed to make uſe of in the Reſtauration of his Church, and return of his People out of the Captivity of <hi>Babylon, Iſa.</hi> 45. 1. Again, <hi>Dan.</hi> 2. 22. 'Tis ſaid he changeth times and ſeaſons, and therefore theſe changes are in a peculiar manner attributed unto the provi<g ref="char:EOLhyphen"/>dence, and unto the Diſpenſations of God's Wiſdom, and to his Power; for who can remove Mountains, but he that lifted them up? and who can exalt the Valleys but he that laid them low? and who can change Times, but the Author of Time it ſelf, and the Father of Eternity? And therefore, al<g ref="char:EOLhyphen"/>though thou wouldeſt not obſerve the Pro<g ref="char:EOLhyphen"/>vidence of God in leſſer Affairs; though thou wouldſt not hear the Voice thereof whiſpering in ſmall things; yet when Divine Wiſdom and Power thunder from Heaven, when they appear in ſeveral great and won<g ref="char:EOLhyphen"/>derful
+<pb n="16" facs="tcp:150247:11"/> Revolutions and Tranſactions in the World, ſurely he that is not verily blind, he muſt ſee at ſuch a time as this is, when the Hand of the Lord hath been ſo long and ſo dreadfully lifted up, who can be ſo blind as not to ſee God's Hand here? or who ſo hard, and ſo obdurate as not take notice of the Judgments and of the Righteouſneſs of God in ſuch a caſe as this is?</p>
+            <p n="5">5. If God interpoſe and execute Judg<g ref="char:EOLhyphen"/>ment upon the Enemies of the Church, when they are in their greateſt Confidence, greateſt ſecurity, this doing appears to be ſuch as that it owns no other Author but God himſelf, <hi>Iſa. 36. 18, 19, 20, &amp;c.</hi>
+            </p>
+            <p>Obſerve here what wonderful, proud, ſignal Confidence appears in <hi>Rabſheka,</hi> and then ſee the Iſſue that falls upon this Confi<g ref="char:EOLhyphen"/>dence, <hi>Chap.</hi> 37. 36. How many Thou<g ref="char:EOLhyphen"/>ſands one Angel ſlew in one Night. Ob<g ref="char:EOLhyphen"/>ſerve, God delights ſometimes to check the Inſolence, and aſtoniſh the pride of vain Perſons, and of thoſe that lift up themſelves
+<pb n="17" facs="tcp:150247:11"/> in Iniquity againſt him. And that he may do this more effectually, he aſtoniſhes them in their greateſt confidence, he deſtroys them in their higheſt Security, and weakens them in the very Flower of their Strength: ſignal Diſappointments are generally attribu<g ref="char:EOLhyphen"/>ted unto God, and ſo are ſignal Deliveran<g ref="char:EOLhyphen"/>ces alſo: When we ſee ſuch Effects wrought as cannot well own any ſecond Cauſe, upon whom can we Father theſe Effects but upon the firſt Cauſe only, that is to ſay, upon God himſelf?</p>
+            <p>If God ſhall by weak means produce great ends: If he ſhall cut off the Head of a Gy<g ref="char:EOLhyphen"/>ant by the Hand of a Son of <hi>Jeſſe:</hi> If he ſhall <hi>ſcatter</hi> a Conſpiracy by the Light of a Candle: If he ſhall remove a Mountain by a weak Arm, this muſt needs make God known by the Judgments which he exe<g ref="char:EOLhyphen"/>cutes.</p>
+            <p n="6">6. If God find out and execute Judg<g ref="char:EOLhyphen"/>ment upon wicked Perſons in their greateſt Secrecies, when they thought no Eye had ſeen,
+<pb n="18" facs="tcp:150247:12"/> when they were perſuaded ſo thick a Dark<g ref="char:EOLhyphen"/>neſs had been drawn over the Face of their Deſigns, that none could pierce nor make a Diſcovery of it; then for God himſelf to unfold and unveil the Monſter! this ſhews that God is Judge indeed: <hi>He revealeth deep and ſecret things,</hi> ſaith <hi>Daniel, He knoweth what is in darkneſs, and the light dwelleth with him,</hi> Dan. 2. 22.</p>
+            <p>In theſe Six Particulars may God be ſaid to be known by the Judgments which he executes.</p>
+            <p>And thus indeed, and in all theſe Re<g ref="char:EOLhyphen"/>ſpects was God known by the great Delive<g ref="char:EOLhyphen"/>rance he vouchſafed to us in the Diſcovery of this late horrid Conſpiracy, againſt the Life of our preſent gracious Sovereign, King <hi>WILLIAM,</hi> and in him againſt our Religion, Lives, Laws and Liberties: and in the great Judgment that he has exerciſed upon ſome of the wicked Contrivers of our Deſtruction. In all theſe Particulars now mentioned, did God make himſelf known.</p>
+            <p n="1">
+               <pb n="19" facs="tcp:150247:12"/>1. He ſurprized them in the very midſt of their Sins; he ſeized upon them in the very Bowels of the Plot; he broke the Veſſels while it was upon the Wheel; and he daſht the Inſtruments of Death in Pieces, even while they were preparing, while they were forging, or rather juſt forg'd upon the Anvil.</p>
+            <p n="2">2. God did alſo remarkably confound and ſcatter thoſe wicked Contrivers away; no ſooner did the Day break upon their De<g ref="char:EOLhyphen"/>ſigns, and the Light peep upon them; no ſooner was the leaſt Diſcovery made, but like Men amazed, even at their own Evil; like Men afraid of the Monſter that they themſelves had formed, hatched, and con<g ref="char:EOLhyphen"/>trived, they run away, they divide, they ſcatter, they looſe themſelves they know not where; ſo ſtrangely did God confound and amaze them ſo ſoon as ever they were diſcovered.</p>
+            <p n="3">
+               <pb n="20" facs="tcp:150247:13"/>3. God diſcovered them alſo in the very nick of Time, when the Monſter was at the very Gates of the Womb, when it was juſt ſtriving for Birth, when it was juſt ready to devour the Prey, when the Day and Hour fixed for the Execution of their black Treachery, and unparallel'd baſeneſs was al<g ref="char:EOLhyphen"/>ready arrived, and welcomed by the helliſh Content and rejoicing of the Aſſaſſinators, then did God point at the Evil by a Beam from Heaven, then did he diſcover the Plot that was laid, and ſo prevented it by the ſame Diſcovery.</p>
+            <p n="4">4. Great Affairs were now upon the Wheel, and great Perſons were at work: the Safety of Chriſtendom, the Peace of <hi>Europe,</hi> the Eſtabliſhment of our reformed Religion were depending. The Perſon of his ſacred Majeſty, the chief Patron of this Cauſe of God, and the main Obſtacle to the Deſigns of the Tyranny that makes Head againſt <hi>Europe</hi> was therefore ſtruck at.</p>
+            <pb n="21" facs="tcp:150247:13"/>
+            <p>They well gueſs'd that the Cedar of our <hi>Lebanon</hi> once fallen, they might hew down the Shrubs with leſs difficulty; or that the Sprigs which before were defended by his Shade, would be cruſh'd by his Fall: That the Peers and Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, though in themſelves ſtrong Props and Pillars of our State, yet could not long ſtand, the Foundation and Centre of their Strength being once raſed: Yea, that the United Forces, the Confederate Princes would reel at leaſt, before ſo mighty a Shock.</p>
+            <p>Providence therefore appeared ſignally, in preventing ſo common a Ruine; where<g ref="char:EOLhyphen"/>in not a ſingle Nation only, though mighty and numerous; but the whole Intereſt of divers States were concerned; and from which, had it taken effect, many Kingdoms might have dated their Miſery.</p>
+            <p n="5">5. How ſecure and confident were theſe wicked Contrivers at this time! the Trai<g ref="char:EOLhyphen"/>tors
+<pb n="22" facs="tcp:150247:14"/> being cheriſhed by the Goodneſs they ingratefully conſpired againſt: Goodneſs free from jealouſy, as it was from Injuſtice and Oppreſſion; and the Vipers ſeeing them<g ref="char:EOLhyphen"/>ſelves nouriſhed in the Royal Boſom, thought they might unſuſpected ſting the Princely Breaſt.</p>
+            <p>Thus ſecure they had already ſwallowed the Prey in hopes, they had ſhared and di<g ref="char:EOLhyphen"/>vided the Nations, aſſigned the Keys of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to be the Holds of a Foreign Tyrant; they had cantoned us into ſeveral Tribes for themſelves to ſeize on, and each had marked his intended Vaſſals.</p>
+            <p>They had reſolved, (and that with great Confidence) to have blown up all our Secu<g ref="char:EOLhyphen"/>rities in a Moment, and to have amaz'd the World with an Act of Villany, ſurpaſſing the moſt accurſed Treaſons of all Ages paſt.</p>
+            <p>In Aſſurance of Succeſs they inſulted and divided the Spoil in their Thoughts; all
+<pb n="23" facs="tcp:150247:14"/> things (but eſpecially his Majeſty's being a<g ref="char:EOLhyphen"/>bove little Diſtruſts, and full of Love which thinketh and ſuſpecteth no Evil) conſpired to favour their Treachery; which ſo hight<g ref="char:EOLhyphen"/>ned their Expectations, that they imagined the Thunderbolt now might be againſt the Thunderer himſelf, and that Lightning might be taught or conſtrained to raviſh Heaven, and their deſigns move againſt the Will of Providence, and God's Deſigns in the World.</p>
+            <p n="6">6. Theſe wicked men thought that no Eye had ſeen them; like cunning Workmen they laid the Works of Darkneſs in the dark; and contrived thoſe ſecret and evil Deſigns with very great and ſignal Secreſy: But God rent the Veyl of the Pit that they digged; and he broke the Day upon them, and ſo the ſnare it ſelf was broken alſo.</p>
+            <p>God would not that our Religion, and Laws, and Liberties, and Prince and People ſhould be ſurpriz'd in a Moment into Death, Confuſion and Slavery.</p>
+            <pb n="24" facs="tcp:150247:15"/>
+            <p>He would not (ſo great was his gracious Providence) that the Reformation which had been firſt produced with ſo much La<g ref="char:EOLhyphen"/>bour and Toyl; which had been the Fruit of ſo great Councils, ſo many Martyrs, ſo many Prayers and Tears, ſo many ſignal and great Endeavours and Examples; he would not, I ſay, that all this ſhould be blaſted in a Moment, by the Contrivances of wicked and deſperate Perſons.</p>
+            <p>He had lately reſtored to <hi>England</hi> her Priviledges and Liberties, which were well nigh enſlaved by Arbitrary Power; had anointed a <hi>David</hi> to bleſs and govern his <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> a Prince whoſe Vertue equals his Great<g ref="char:EOLhyphen"/>neſs, and whoſe Dignity receives a Luſtre from his Piety, and he would not deprive us of a Mercy which we have as yet but taſted enough of to increaſe our Deſires after its continuance; he would not ſubject us to the ſame Yoke of Tyranny he had but lately reſcued us from: He would not that the Crown ſo lately fixed, ſhould ſo ſoon
+<pb n="25" facs="tcp:150247:15"/> fall from the Head of him, who had found Mercy not to ſtain its Glory with any unjuſt, or unprincely Action. Therefore for this Deliverance we have great Cauſe to bleſs him this Day, and for ever. And ſince God has preſerved a King dear to us as our Lives and Religion; let us make a return of Thankfulneſs proved in Zeal to the Honour of God and Religion, and in all Loyalty to the Power preſerved over us. Our Zeal to Religion ſhould diſcover it ſelf in aiming at thoſe Ends for which it was given, <hi>ſcil.</hi> The Peace of the Church, and the Peace of the State, and the Safety of our own Souls. Let every Man that pretends to hate the Su<g ref="char:EOLhyphen"/>perſtition of the Church of <hi>Rome,</hi> hate the Treachery and the Rebellion of their Princi<g ref="char:EOLhyphen"/>ples alſo: What Advantage will it be to curſe the Pope at <hi>Rome,</hi> and to nouriſh Po<g ref="char:EOLhyphen"/>piſh Principles under our own Roof, nay, in our own Hearts?</p>
+            <p>To conclude, That Religion that makes us good Men, will make us good Subjects al<g ref="char:EOLhyphen"/>ſo; and if it do not make us good Subjects,
+<pb n="26" facs="tcp:150247:16"/> without doubt it hath not made us good Chriſtians: For it is one indiſpenſible Law of Chriſtian Religion, that we obey Magi<g ref="char:EOLhyphen"/>ſtrates, that we ſubmit unto thoſe Authori<g ref="char:EOLhyphen"/>ties that God hath placed over us; and if we do not ſubmit to them, neither do we ſubmit to God's Laws. Let us therefore take care that none of us be deficient in the ſame Duty, but let us obey God, and let us obey Laws, and live in Peace, in mu<g ref="char:EOLhyphen"/>tual Love one of another, and this is the way to be happy here, and happy hereafter alſo.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150247:16"/>
+            <pb facs="tcp:150247:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
